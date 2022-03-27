@@ -1,0 +1,19 @@
+html {
+    font-family: "Helvitca", sans-serif;
+}
+
+.red-box {
+    background-color:rgb(255, 137, 137);
+}
+.red-box.large{
+    font-size:24px;
+}
+#big-blue{
+    font-size:30px;
+    color:rgb(0, 0, 189);
+}
+#green-box{
+    background-color:rgb(117, 189, 117);
+    font-weight: bold;
+    font-size: 18px;
+}
